@@ -11,7 +11,7 @@ The PDF report of the project is included in the `/docs` folder.
 
 ## Folder Structure
 
-- `/docs` – PDF report and diagrams  
+- `/Add project report PDF`– PDF report and diagrams  
 - `/code` – Arduino code and scripts (if any)  
 
 ## License
