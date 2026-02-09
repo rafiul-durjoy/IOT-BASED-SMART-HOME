@@ -7,13 +7,14 @@ This repository contains the project files and report for my final year hardware
 - **Security monitoring**  
 - **Device integration via Arduino and Wi-Fi**  
 
-The PDF report of the project is included in the `/docs` folder.
+The PDF report of the project is included in the [`Add project report PDF` folder](Add%20project%20report%20PDF/Smart_Home_Project_Report.pdf).
 
 ## Folder Structure
 
-- `/Add project report PDF`– PDF report and diagrams  
+- `/Add project report PDF` – PDF report and diagrams  
 - `/code` – Arduino code and scripts (if any)  
 
 ## License
 
 This project is licensed under **CC BY-NC 4.0** – see the LICENSE.md file for details.
+
