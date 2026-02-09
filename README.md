@@ -1,2 +1,19 @@
-# IOT-BASED-SMART-HOME
-Final Year Hardware Project: Smart Home System using IoT, Arduino, and Wi-Fi for automated lighting, temperature control, security, and monitoring. Project report included in PDF.
+# IOT Smart Home System – Final Year Project
+
+This repository contains the project files and report for my final year hardware project. The project focuses on designing and implementing a smart home system using IoT technology, featuring:
+
+- **Automated lighting control**  
+- **Temperature regulation**  
+- **Security monitoring**  
+- **Device integration via Arduino and Wi-Fi**  
+
+The PDF report of the project is included in the `/docs` folder.
+
+## Folder Structure
+
+- `/docs` – PDF report and diagrams  
+- `/code` – Arduino code and scripts (if any)  
+
+## License
+
+This project is licensed under **CC BY-NC 4.0** – see the LICENSE.md file for details.
