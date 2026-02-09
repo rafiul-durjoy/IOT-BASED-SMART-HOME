@@ -5,9 +5,9 @@ This repository contains the project files and report for my final year hardware
 - **Automated lighting control**  
 - **Temperature regulation**  
 - **Security monitoring**  
-- **Device integration via Arduino and Wi-Fi**  
+- **Device integration via Arduino and Wi-Fi**   
 
-The PDF report of the project is included in the [`Add project report PDF` folder](Add%20project%20report%20PDF/Smart_Home_Project_Report.pdf).
+The PDF report of the project is available [here](https://github.com/rafiul-durjoy/IOT-BASED-SMART-HOME/blob/main/Final%20year%20Project-IOT%20Based%20Smart%20Home.pdf).
 
 ## Folder Structure
 
@@ -17,4 +17,5 @@ The PDF report of the project is included in the [`Add project report PDF` folde
 ## License
 
 This project is licensed under **CC BY-NC 4.0** – see the LICENSE.md file for details.
+
 
