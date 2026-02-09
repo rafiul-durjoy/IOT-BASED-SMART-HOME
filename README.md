@@ -11,7 +11,7 @@ The PDF report of the project is available [here](https://github.com/rafiul-durj
 
 ## Folder Structure
 
-- `/Add project report PDF` – PDF report and diagrams  
+- `/Final year Project-IOT Based Smart Home.pdf` – PDF report and diagrams  
 - `/code` – Arduino code and scripts (if any)  
 
 ## License
